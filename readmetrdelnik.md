@@ -1,7 +1,7 @@
 <div align="center">
  
    <a href="www.ackeeblockchain.com">
-   <img height="250x" src="images/trdelnik1.png" />
+   <img height="250x" src="trdelnik1.png" />
 
 
   <h1> <strong>Trdelnik</strong> </h1>
