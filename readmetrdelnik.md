@@ -1,6 +1,6 @@
 <div align="center">
  
-   <a href="www.ackeeblockchain.com">
+   <a href="https://ackeeblockchain.com/">
    <img height="250x" src="trdelnik1.png" />
 
 
