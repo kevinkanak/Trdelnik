@@ -28,21 +28,21 @@
 # 📌 Core Features
 
 
-- <strong>Trdelnik console </strong>
+- ### <strong>Trdelnik console </strong>
 
 Trdelnik console will compile and deploy an Anchor program, launch a local cluster 
 and give developers a command prompt to interact with the program.
 
-- <strong>Trdelnik client</strong>
+- ### <strong>Trdelnik client</strong>
 
 Trdelnik client wraps Anchor client so there is no need to write code in Javascript.
 Developers can build and deploy an Anchor program to a local cluster and run a test suite against it in one Trdelnik command.
 
-- <strong>Trdelnik fuzz</strong>
+- ### <strong>Trdelnik fuzz</strong>
     
 Trdelnik fuzz is a tool for automating the testing process. It generates automatically random data as inputs, so developers don't have to write them themselves.
 
-- <strong>Trdelnik explorer</strong>
+- ### <strong>Trdelnik explorer</strong>
 
 Trdelnik explorer allows developers to simulate Solana transactions against a
 local cluster and examine changes of a local ledger.
