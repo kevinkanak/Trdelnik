@@ -2,7 +2,7 @@
  
    
  
-   <img height="400x" width="2000" src="No animation_trdelnik.png" />
+   <img height="400x" width="400" src="circle_trdelnik1.png" />
 
 
   <h1> <strong>Trdelnik</strong> </h1>
