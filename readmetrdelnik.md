@@ -2,7 +2,7 @@
  
    
  
-   <img height="400x" src="pan_trdelnik.gif" />
+   <img height="400x" src="No animation_trdelnik.png" />
 
 
   <h1> <strong>Trdelnik</strong> </h1>
