@@ -2,7 +2,7 @@
  
    
  
-   <img height="250x" src="trdelnik1.png" />
+   <img height="250x" src="animace breathing_trdelnik.gif" />
 
 
   <h1> <strong>Trdelnik</strong> </h1>
